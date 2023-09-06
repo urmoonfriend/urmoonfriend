@@ -1,6 +1,6 @@
 ![Header](https://github.com/urmoonfriend/urmoonfriend/blob/main/.idea/assets/stars_total.gif)
 
-## Junior Java Developer
+## Java Developer
 
 ### Languages and Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-090909?style=for-the-badge&logo=jetbrains)
