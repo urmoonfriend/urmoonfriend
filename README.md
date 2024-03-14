@@ -1,4 +1,4 @@
-![Header]<!--(https://github.com/urmoonfriend/urmoonfriend/blob/main/.idea/assets/stars_total.gif)-->
+<!--![Header](https://github.com/urmoonfriend/urmoonfriend/blob/main/.idea/assets/stars_total.gif)-->
 
 ## Java Developer
 
